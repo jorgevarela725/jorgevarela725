@@ -1,16 +1,30 @@
+# Senior Web & Mobile Developer
+
 ## Hi there 👋
 
-<!--
-**jorgevarela725/jorgevarela725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have over 10 years of experience in Web & Mobile development. My skills encompass a wide range of technologies, allowing me to deliver high-quality, customized solutions tailored to each client's unique needs.
 
-Here are some ideas to get you started:
+## Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In Web development, I specialize in utilizing:
+
+* **Frontend:** React, Vue.js, Next.js
+* **Backend:** Node.js, PHP (Laravel, CodeIgniter), WordPress, Shopify
+* **Databases:** MySQL, MongoDB, PostgreSQL
+* **Rapid Development:** Bubble.io
+
+## Mobile Development
+
+In the realm of Mobile development, I excel crafting robust and user-friendly applications using:
+
+* **Cross-Platform:** React Native
+* **Native:** Swift, Flutter
+* **Platforms:** iOS, Android
+
+## My Commitment
+
+Whether it's building interactive websites or crafting intuitive mobile applications, I am committed to turning your ideas into reality.
+
+## Let's Connect!
+
+Feel free to reach out to discuss your project needs.
